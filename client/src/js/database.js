@@ -31,7 +31,7 @@ const request = store.put({ id: id, todo: content });
 */
 
 //PUT funciton
-export const putDb = async (content) => {
+export const putDb = async (id, content) => {
   console.log('PUT to the jateDB');
   // connect to DB and version we want to use
   const jateDb = await openDB('jate', 1);
