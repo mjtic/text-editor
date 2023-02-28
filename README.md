@@ -16,6 +16,10 @@
 
   ## Usage
   This app is deployed via Heroku: https://just-another-texteditor.herokuapp.com/
+  
+    ### MOCK-UP
+    The following image shows the application's IndexedDB storage:
+    ![Demonstration of the IndexedDB storage named 'jate' in the browser.](./Assets/idb-storage.png)
 
     ### Technology
     * Node.js
