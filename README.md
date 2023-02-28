@@ -8,6 +8,7 @@
 
   * [Installation](#installation)
   * [Usage](#usage)
+  * [MOCK-UP](#mock-up)
   * [Contribution](#contribution)
   * [Test](#test)
   * [Websites](#websites)
@@ -17,16 +18,16 @@
   ## Usage
   This app is deployed via Heroku: https://just-another-texteditor.herokuapp.com/
   
-    ### MOCK-UP
-    The following image shows the application's IndexedDB storage:
-    ![Demonstration of the IndexedDB storage named 'jate' in the browser.](./Assets/idb-storage.png)
-
     ### Technology
     * Node.js
     * Express.js
     * NPM Packages:
     * npm i idb
     * npm i if-env
+
+  ## MOCK-UP
+  The following image shows the application's IndexedDB storage:
+  ![Demonstration of the IndexedDB storage named 'jate' in the browser.](./Assets/idb-storage.png)
 
   ## Contribution
   https://github.com/the-Coding-Boot-Camp-at-UT/UTA-VIRT-FSF-FT-12-2022-U-LOLC<br>
